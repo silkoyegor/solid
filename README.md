@@ -1,10 +1,10 @@
 # SOLID
 
-S - принцип единой ответственности (single responsibility principle);
-O - принцип открытости и закрытости (open/closed principle);
-L - принцип подстановки Барбары Лисков (Liskov substitution principle);
-I - принцип разделения интерфейса (interface segregation principle);
-D - принцип инверсии зависимостей (dependency inversion principle).
+- S - принцип единой ответственности (single responsibility principle);
+- O - принцип открытости и закрытости (open/closed principle);
+- L - принцип подстановки Барбары Лисков (Liskov substitution principle);
+- I - принцип разделения интерфейса (interface segregation principle);
+- D - принцип инверсии зависимостей (dependency inversion principle).
 
 ## Принцип единой ответственности (Single Responsibility Principle, SRP) 
 
